@@ -3,15 +3,15 @@
     {
       "ChangeList": [
         {
-          "Id": "3c32d90b-76ec-11eb-8d30-85f45032d4a1",
+          "Id": "fea6a600-76ec-11eb-8d30-85f45032d4a1",
           "ApiChange": "Resource",
           "ChangedApiName": "featureRolloutPolicy",
           "ChangeType": "Addition",
-          "Description": "Added the [featureRolloutPolicy](https://docs.microsoft.com/en-us/graph/api/resources/featureRolloutPolicy?view=graph-rest-beta) resource type.",
+          "Description": "Added the [featureRolloutPolicy](https://docs.microsoft.com/en-us/graph/api/resources/featureRolloutPolicy?view=graph-rest-1.0) resource type.",
           "Target": "featureRolloutPolicy"
         },
         {
-          "Id": "3c378bae-76ec-11eb-8d30-85f45032d4a1",
+          "Id": "fea912ba-76ec-11eb-8d30-85f45032d4a1",
           "ApiChange": "Enum type",
           "ChangedApiName": "stagedFeatureName",
           "ChangeType": "Addition",
@@ -19,10 +19,10 @@
           "Target": "stagedFeatureName"
         }
       ],
-      "Id": "3c3063a0-76ec-11eb-8d30-85f45032d4a1",
+      "Id": "fea3e500-76ec-11eb-8d30-85f45032d4a1",
       "Cloud": "prd",
-      "Version": "beta",
-      "CreatedDateTime": "2021-02-24T22:04:15.909Z",
+      "Version": "v1.0",
+      "CreatedDateTime": "2021-02-24T22:09:42.144Z",
       "WorkloadArea": "Identity and access",
       "SubArea": "Identity and sign-in"
     }
